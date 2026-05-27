@@ -2,9 +2,9 @@
 
 A production-ready Spring Boot application demonstrating a One-to-One relationship mapping between User and Address entities using Spring Data JPA, Hibernate, and MySQL.
 
-![Java](https://img.shields.io/badge/Java-17-orange)
+![Java](https://img.shields.io/badge/Java-25-orange)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-brightgreen)
-![MySQL](https://img.shields.io/badge/MySQL-8-blue)
+![MySQL](https://img.shields.io/badge/SQLPLUS-8-blue)
 ![Maven](https://img.shields.io/badge/Maven-Build-red)
 
 ## Table of Contents
